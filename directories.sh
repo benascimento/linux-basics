@@ -7,3 +7,5 @@ cd `pwd`
 echo "Changing to home: `cd ~ && pwd`"
 echo "Back to last workspace: `cd -`"
 echo " --------------------------------- "
+
+# The dot represents the current directory. -> "cd ." is the same as "cd `pwd`"
